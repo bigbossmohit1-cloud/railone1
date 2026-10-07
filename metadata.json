@@ -1,0 +1,6 @@
+{
+  "name": "RailOne",
+  "description": "A premium, polished mobile railway application featuring secure mPIN login, a functional journey planner, booking history tracking with real-time date adjustment, and custom illustrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
